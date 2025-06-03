@@ -3,7 +3,7 @@ return {
     'coffebar/neovim-project',
     opts = {
       projects = { -- define project roots
-        '~/projects/*',
+        '/mnt/ddrive/sharian/projects/projects/*',
         '~/.config/*',
       },
       dashboard_mode = true,

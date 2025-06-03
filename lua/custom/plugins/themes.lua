@@ -3,7 +3,7 @@ return {
     'rose-pine/neovim',
     name = 'rose-pine',
     lazy = false,
-    priority = 1000,
+    priority = 100,
     config = function()
       require('rose-pine').setup {
         variant = 'moon', -- "auto", "main", "moon", or "dawn"

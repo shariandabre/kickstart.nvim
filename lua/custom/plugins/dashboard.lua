@@ -5,6 +5,10 @@ return {
     opts = function()
       local logo = [[
                                  
+
+
+
+
     ]]
 
       logo = string.rep('\n', 1) .. logo .. '\n'
